@@ -4,15 +4,15 @@ svgEditor.readLang({
 	dir : "ltr",
 	common: {
 		"ok": "Kaydetmek",
-		"cancel": "Iptal",
-		"key_backspace": "backspace", 
-		"key_del": "delete", 
-		"key_down": "down", 
-		"key_up": "up", 
-		"more_opts": "More Options",
+		"cancel": "İptal",
+		"key_backspace": "geri al", 
+		"key_del": "sil", 
+		"key_down": "aşağı", 
+		"key_up": "yukarı", 
+		"more_opts": "Daha Fazla Seçenekler",
 		"url": "URL",
-		"width": "Width",
-		"height": "Height"
+		"width": "Genişlik",
+		"height": "Yükseklik"
 	},
 	misc: {
 		"powered_by": "Powered by"
