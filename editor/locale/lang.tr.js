@@ -3,7 +3,7 @@ svgEditor.readLang({
 	lang: "tr",
 	dir : "ltr",
 	common: {
-		"ok": "Kaydetmek",
+		"ok": "Kaydet",
 		"cancel": "İptal",
 		"key_backspace": "geri al", 
 		"key_del": "sil", 
